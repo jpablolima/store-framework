@@ -24,7 +24,7 @@
       "textAlignment": "center"
     }
   },
-  "info-card#button-lef": {
+  "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
       "textPosition": "letf",
